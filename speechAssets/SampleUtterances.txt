@@ -1,0 +1,20 @@
+GetNewFactIntent a fact
+GetNewFactIntent a rock fact
+GetNewFactIntent a rock and roll fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a rock fact
+GetNewFactIntent tell me a rock and roll fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a rock fact
+GetNewFactIntent give me a rock and roll fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me rock trivia
+GetNewFactIntent tell me rock and roll trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me rock trivia
+GetNewFactIntent give me rock and roll trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some rock information
+GetNewFactIntent give me some rock and roll information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
