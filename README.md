@@ -16,7 +16,7 @@ This simple sample has no external dependencies or session management, and shows
 1. Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
 2. Click on the Create a Lambda Function or Get Started Now button.
 3. Skip the blueprint
-4. Name the Lambda Function "Space-Geek-Example-Skill".
+4. Name the Lambda Function "rockNerd".
 5. Select the runtime as Node.js
 6. Go to the the src directory, select all files and then create a zip file, make sure the zip file does not contain the src directory itself, otherwise Lambda function will not work.
 7. Select Code entry type as "Upload a .ZIP file" and then upload the .zip file to the Lambda
@@ -31,7 +31,7 @@ This simple sample has no external dependencies or session management, and shows
 ### Alexa Skill Setup
 
 1. Go to the [Alexa Console](https://developer.amazon.com/edw/home.html) and click Add a New Skill.
-2. Set "SpaceGeek" as the skill name and "space geek" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, Ask space geek for a space fact."
+2. Set "Rock Nerd" as the skill name and "Rock Nerd" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, Ask Rock Nerd for a rock fact."
 3. Select the Lambda ARN for the skill Endpoint and paste the ARN copied from above. Click Next.
 4. Copy the Intent Schema from the included IntentSchema.json.
 5. Copy the Sample Utterances from the included SampleUtterances.txt. Click Next.
